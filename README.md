@@ -1,4 +1,4 @@
-
+# Este repositorio está descontinuado y no se recomienda su uso. 
 
 Prerequisitos:
 - PHP
@@ -6,7 +6,7 @@ Prerequisitos:
 - modulo SOAP
 
 
-Datos de Prueba ambiente Integraci�n.
+Datos de Prueba ambiente Integración.
 
 Targeta VISA
  Nro 4051885600446623
